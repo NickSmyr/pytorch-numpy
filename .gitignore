@@ -1,0 +1,13 @@
+.output_graphs
+archive
+data
+models
+
+
+.ipynb_checkpoints
+figures
+output_graphs
+
+.pytest_cache
+.idea
+__pycache__
